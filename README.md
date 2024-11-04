@@ -62,5 +62,5 @@ Durante o desenvolvimento deste projeto, aprendi e pratiquei:
 
 Para mais informações ou dúvidas, entre em contato:
 
-[**LinkedIn**](https://www.linkedin.com/in/michael-lfrodrigues/)
-[**E-Mail**](michael.linsk01@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/michael-lfrodrigues/)
+- [**E-mail**](mailto:michael.linsk01@gmail.com)
